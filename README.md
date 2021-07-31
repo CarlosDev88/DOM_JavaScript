@@ -23,5 +23,6 @@ the list of exercises is:
 * use the intersection observer api
 
 # screen shot
+![alt text](https://github.com/CarlosDev88/DOM_JavaScript/blob/main/screenshot/dom2-js.gif)
 
 
